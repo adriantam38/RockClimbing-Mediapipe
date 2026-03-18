@@ -1,0 +1,4 @@
+("C:\\Users\\User\\Documents\\Adrian's\\Programming_Codes\\Python\\RockClimbing-main "
+ '- Gamemodes - Copy - '
+ 'Copy\\Installation\\build\\Install_RockClimbing\\PYZ-00.pyz',
+ [])
