@@ -2,6 +2,11 @@
 
 A high-performance desktop application built with **Python**, **OpenCV**, and **MediaPipe** designed for real-time skeletal tracking, route visualization, and performance analytics in rock climbing.
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 52398088edc00af21014bfe892a71e2a29ea2283
 ## 📖 Project Overview
 
 This system provides a professional interface for climbers to analyze their technique. By using computer vision to overlay skeletal data onto live video feeds, users can identify center-of-gravity shifts, reach efficiency, and movement patterns.
@@ -12,12 +17,21 @@ The application uses a modular **View-driven architecture**, allowing for seamle
 
 ## ✨ Key Features
 
+<<<<<<< HEAD
 - **Real-time AI Analysis:** Integrated `CameraView` using **MediaPipe Pose** to track 33 body landmarks.
 - **Intelligent Navigation:** A custom `Maps()` system that manages memory by toggling view visibility (`place_forget`).
 - **Dynamic UI Scaling:** Automatically detects monitor resolution via `ctypes` for a pixel-perfect fullscreen experience.
 - **Keypad Optimized:** Specialized `ControlBar` logic allowing for interaction via physical keypads (with a "Reverse Mode" toggle).
 - **Session Management:** Save and load climbing data through the `SaveLoadModule`.
 - **Multi-language Support:** Powered by `python-i18n` with JSON-based localization.
+=======
+* **Real-time AI Analysis:** Integrated `CameraView` using **MediaPipe Pose** to track 33 body landmarks.
+* **Intelligent Navigation:** A custom `Maps()` system that manages memory by toggling view visibility (`place_forget`).
+* **Dynamic UI Scaling:** Automatically detects monitor resolution via `ctypes` for a pixel-perfect fullscreen experience.
+* **Keypad Optimized:** Specialized `ControlBar` logic allowing for interaction via physical keypads (with a "Reverse Mode" toggle).
+* **Session Management:** Save and load climbing data through the `SaveLoadModule`.
+* **Multi-language Support:** Powered by `python-i18n` with JSON-based localization.
+>>>>>>> 52398088edc00af21014bfe892a71e2a29ea2283
 
 ---
 
@@ -25,9 +39,15 @@ The application uses a modular **View-driven architecture**, allowing for seamle
 
 ### Prerequisites
 
+<<<<<<< HEAD
 - Windows 10/11 (for `ctypes` screen metrics)
 - Python 3.8+
 - A high-definition webcam or IP camera
+=======
+* Windows 10/11 (for `ctypes` screen metrics)
+* Python 3.8+
+* A high-definition webcam or IP camera
+>>>>>>> 52398088edc00af21014bfe892a71e2a29ea2283
 
 ### Installation
 
@@ -35,4 +55,7 @@ The application uses a modular **View-driven architecture**, allowing for seamle
    ```bash
    git clone [https://github.com/yourusername/rock-climbing-analysis.git](https://github.com/yourusername/rock-climbing-analysis.git)
    cd rock-climbing-analysis
+<<<<<<< HEAD
    ```
+=======
+>>>>>>> 52398088edc00af21014bfe892a71e2a29ea2283
